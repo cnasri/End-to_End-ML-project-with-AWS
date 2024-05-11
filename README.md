@@ -1,1 +1,1 @@
-# End-to_End-ML-project-with-AWS
+# End-to-End-ML-project-with-AWS
